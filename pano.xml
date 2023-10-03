@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17983" start="node1" appversion="6.1.9">
+  <panorama id="node1">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="5.85" pan="9.42" fov="80" projection="4"/>
+      <flyin tilt="5.85" pan="9.42" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.699889" author="" altitude="17.20" source="" customnodeid="" title="0街景" datetime="2023/9/29 上午 11:00" longitude="120.890528" copyright="" comment="" description="0街景" info="" tags="大馥官邸兩房平車" nodeid="node1" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="6.49" skinid="ht_node" pan="-351.4" title="開始賞屋" url="{node2}" target="" description="" distance="27.2369"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-5.81" pan="36.34" fov="80" projection="4"/>
+      <flyin tilt="-5.81" pan="36.34" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700028" author="" altitude="18.10" source="" customnodeid="" title="1客廳1" datetime="2023/9/29 上午 10:41" longitude="120.890750" copyright="" comment="" description="1客廳1" info="" tags="大馥官邸兩房平車" nodeid="node2" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-1.22" skinid="ht_node" pan="-170.9" title="返回街景" url="{node1}" target="" description="" distance="27.2369"/>
+      <hotspot id="Point02" tilt="-20.64" skinid="ht_node" pan="-322.41" title="客廳2" url="{node3}" target="" description="" distance="14.383"/>
+      <hotspot id="Point03" tilt="0.22" skinid="ht_node" pan="-341.59" title="客廳窗邊" url="{node4}" target="" description="" distance="5.6572"/>
+      <hotspot id="Point04" tilt="-0.32" skinid="ht_node" pan="-302.45" title="主臥" url="{node5}" target="" description="" distance="19.5982"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-6.57" pan="-5.89" fov="80" projection="4"/>
+      <flyin tilt="-6.57" pan="-5.89" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700056" author="" altitude="17.70" source="" customnodeid="" title="1客廳2" datetime="2023/9/29 上午 10:39" longitude="120.890889" copyright="" comment="" description="1客廳2" info="" tags="大馥官邸兩房平車" nodeid="node3" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="0.35" skinid="ht_node" pan="-2.82" title="客廳窗邊" url="{node4}" target="" description="" distance="8.94417"/>
+      <hotspot id="Point02" tilt="-3.13" skinid="ht_node" pan="-90.43" title="廚房" url="{node10}" target="" description="" distance="10.4441"/>
+      <hotspot id="Point03" tilt="-1.75" skinid="ht_node" pan="-141.55" title="返回街景" url="{node1}" target="" description="" distance="40.9243"/>
+      <hotspot id="Point04" tilt="-25.27" skinid="ht_node" pan="-134.68" title="客廳入口" url="{node2}" target="" description="" distance="14.383"/>
+      <hotspot id="Point06" tilt="-2.5" skinid="ht_node" pan="-270.61" title="次臥" url="{node7}" target="" description="" distance="19.6992"/>
+      <hotspot id="Point05" tilt="-2.93" skinid="ht_node" pan="-281.03" title="主臥" url="{node5}" target="" description="" distance="33.7839"/>
+      <hotspot id="Point07" tilt="-2.55" skinid="ht_node" pan="-256.31" title="浴廁" url="{node9}" target="" description="" distance="17.1555"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="4.75" pan="-4.91" fov="80" projection="4"/>
+      <flyin tilt="4.75" pan="-4.91" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700028" author="" altitude="18.00" source="" customnodeid="" title="1客廳3" datetime="2023/9/29 上午 10:42" longitude="120.890806" copyright="" comment="" description="1客廳3" info="" tags="大馥官邸兩房平車" nodeid="node4" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-1.83" skinid="ht_node" pan="-182.85" title="回到客廳" url="{node3}" target="" description="" distance="8.94417"/>
+      <hotspot id="Point02" tilt="-1.04" skinid="ht_node" pan="-159.85" title="廚房" url="{node10}" target="" description="" distance="17.0561"/>
+      <hotspot id="Point03" tilt="-2.01" skinid="ht_node" pan="-215.17" title="浴廁" url="{node9}" target="" description="" distance="8.4858"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0.25" pan="-6.26" fov="80" projection="4"/>
+      <flyin tilt="0.25" pan="-6.26" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700028" author="" altitude="17.40" source="" customnodeid="" title="2主臥1" datetime="2023/9/29 上午 10:24" longitude="120.890556" copyright="" comment="" description="2主臥1" info="" tags="大馥官邸兩房平車" nodeid="node5" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="3.04" skinid="ht_node" pan="-0.99" title="主臥窗邊" url="{node6}" target="" description="" distance="24.2515"/>
+      <hotspot id="Point02" tilt="0.21" skinid="ht_node" pan="-258.04" title="浴廁" url="{node9}" target="" description="" distance="16.7696"/>
+      <hotspot id="Point03" tilt="-0.27" skinid="ht_node" pan="-282.68" title="次臥" url="{node7}" target="" description="" distance="14.2844"/>
+      <hotspot id="Point04" tilt="-0.12" skinid="ht_node" pan="-269.67" title="回到客廳" url="{node3}" target="" description="" distance="33.7839"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="3.59" pan="2" fov="80" projection="4"/>
+      <flyin tilt="3.59" pan="2" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700111" author="" altitude="17.20" source="" customnodeid="" title="2主臥2" datetime="2023/9/29 上午 10:43" longitude="120.890778" copyright="" comment="" description="2主臥2" info="" tags="大馥官邸兩房平車" nodeid="node6" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-4.87" skinid="ht_node" pan="-185.48" title="主臥門口" url="{node5}" target="" description="" distance="24.2515"/>
+      <hotspot id="Point02" tilt="-5.19" skinid="ht_node" pan="-203.77" title="回到客廳" url="{node3}" target="" description="" distance="12.7727"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-2.95" pan="-22.49" fov="80" projection="4"/>
+      <flyin tilt="-2.95" pan="-22.49" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700056" author="" altitude="17.60" source="" customnodeid="" title="3次臥1" datetime="2023/9/29 上午 10:26" longitude="120.890694" copyright="" comment="" description="3次臥1" info="" tags="大馥官邸兩房平車" nodeid="node7" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="0.67" skinid="ht_node" pan="-16.69" title="次臥窗邊" url="{node8}" target="" description="" distance="9.22918"/>
+      <hotspot id="Point02" tilt="-2.53" skinid="ht_node" pan="-170.62" title="主臥" url="{node5}" target="" description="" distance="14.2844"/>
+      <hotspot id="Point03" tilt="-2.5" skinid="ht_node" pan="-185.47" title="回到客廳" url="{node3}" target="" description="" distance="19.6992"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.12" pan="-13.32" fov="80" projection="4"/>
+      <flyin tilt="-0.12" pan="-13.32" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700139" author="" altitude="17.50" source="" customnodeid="" title="3次臥2" datetime="2023/9/29 上午 10:45" longitude="120.890694" copyright="" comment="" description="3次臥2" info="" tags="大馥官邸兩房平車" nodeid="node8" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-5.54" skinid="ht_node" pan="-173.95" title="次臥門口" url="{node7}" target="" description="" distance="9.22918"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.86" pan="2.96" fov="80" projection="4"/>
+      <flyin tilt="-0.86" pan="2.96" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700028" author="" altitude="18.10" source="" customnodeid="" title="4浴廁" datetime="2023/9/29 上午 10:27" longitude="120.890722" copyright="" comment="" description="4浴廁" info="" tags="大馥官邸兩房平車" nodeid="node9" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-4.09" skinid="ht_node" pan="-155.25" title="主臥" url="{node5}" target="" description="" distance="16.7696"/>
+      <hotspot id="Point02" tilt="-4.6" skinid="ht_node" pan="-182.93" title="回到客廳" url="{node3}" target="" description="" distance="17.1555"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-5.56" pan="-0.03" fov="80" projection="4"/>
+      <flyin tilt="-5.56" pan="-0.03" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700000" author="" altitude="18.10" source="" customnodeid="" title="5廚房1" datetime="2023/9/29 上午 10:36" longitude="120.890972" copyright="" comment="" description="5廚房1" info="" tags="大馥官邸兩房平車" nodeid="node10" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="0.29" skinid="ht_node" pan="-357.06" title="廚房爐口" url="{node11}" target="" description="" distance="8.38478"/>
+      <hotspot id="Point02" tilt="-1.86" skinid="ht_node" pan="-264.94" title="回到客廳" url="{node3}" target="" description="" distance="10.4441"/>
+      <hotspot id="Point03" tilt="-8.76" skinid="ht_node" pan="-82.76" title="陽台" url="{node12}" target="" description="" distance="36.6014"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-18.87" pan="10.68" fov="80" projection="4"/>
+      <flyin tilt="-18.87" pan="10.68" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700000" author="" altitude="18.20" source="" customnodeid="" title="5廚房2" datetime="2023/9/29 上午 10:35" longitude="120.890889" copyright="" comment="" description="5廚房2" info="" tags="大馥官邸兩房平車" nodeid="node11" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-3.58" skinid="ht_node" pan="-183.06" title="廚房門口" url="{node10}" target="" description="" distance="8.38478"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.96" pan="8" fov="80" projection="4"/>
+      <flyin tilt="-0.96" pan="8" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.700028" author="" altitude="17.40" source="" customnodeid="" title="6陽台1" datetime="2023/9/29 上午 10:30" longitude="120.890611" copyright="" comment="" description="6陽台1" info="" tags="大馥官邸兩房平車" nodeid="node12" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="5.28" skinid="ht_node" pan="-350.67" title="陽台窗邊" url="{node13}" target="" description="" distance="8.41299"/>
+      <hotspot id="Point02" tilt="-5.56" skinid="ht_node" pan="-215.86" title="廚房門口" url="{node10}" target="" description="" distance="36.6014"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1488" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1488" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0.43" pan="-15.36" fov="80" projection="4"/>
+      <flyin tilt="0.43" pan="-15.36" fov="80" projection="4"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata latitude="24.699972" author="" altitude="17.50" source="" customnodeid="" title="6陽台2" datetime="2023/9/29 上午 10:33" longitude="120.890667" copyright="" comment="" description="6陽台2" info="" tags="大馥官邸兩房平車" nodeid="node13" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" background="1" enabled="1" height="20" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot id="Point01" tilt="-6.32" skinid="ht_node" pan="-191.95" title="陽台門口" url="{node12}" target="" description="" distance="8.41299"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" type="cut" zoomin="0" blendtime="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedmouse="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" author="" source="" customnodeid="" title="" datetime="" longitude="" copyright="" comment="" description="" info="" tags="" nodeid="master" heading="0"/>
+  </masternode>
+</tour>
